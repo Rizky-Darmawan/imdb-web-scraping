@@ -1,7 +1,10 @@
 # IMDB Web Scraping Project
 
 Web scraping of www.imdb.com to collect action movies data from the website. The data was collected via every individual movie pages by generating
-every links from the action movie filter. The scraped data includes :
+every links from the action movie filter. The codes that I used is in the Web Scraping Code folder under Main Code.py python file. The other python file
+was used only for testing and troubleshooting.
+
+The scraped data includes :
 1. Movie titles
 2. Released dates
 3. MPAA ratings / Age rating
